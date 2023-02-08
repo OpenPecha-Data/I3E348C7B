@@ -1,0 +1,16 @@
+id: I3E348C7B
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:01:00.956599
+last_modified: 2023-02-08 15:01:00.956760
+source_metadata:
+  title: 'BA: Daśabhūmikasūtra'
+  language: zh
+bases:
+  27BE:
+    base_file: 27BE.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
